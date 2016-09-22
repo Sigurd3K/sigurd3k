@@ -1,0 +1,164 @@
+//
+// Eigen
+// --------------------------------------------------
+
+//Variabelen
+@BackgroundColor: #eee;
+@AlphaColor: #222;
+@BetaColor: #333;
+@TitleColor: #444;
+
+@TextColor: #222;
+@BorderColor: #111;
+
+body{
+	background-color: @BackgroundColor;
+}
+
+h1{
+	margin-top: 5vh;
+
+	text-align: center;
+}
+
+h1, h2, h3{
+	//font-family: redacted_scriptbold;
+	color: #222;
+}
+
+p{
+	//font-family: redacted_scriptbold;
+	font-size: 1.1em;
+	color: @TextColor;
+}
+
+.ContentContainer{
+	//width: 60vw;
+	//height: 60vh;
+	//margin-top: 10vh;
+	//margin-left: 10vw;
+
+	@BorderSettings: 2px solid @BorderColor;
+	border-left: @BorderSettings;
+	border: @BorderSettings;
+	background-color: @BetaColor;
+}
+
+.AntiOverFlowContainer{
+	overflow-x: hidden;
+	overflow-y: scroll;
+
+	height: 100%;
+
+	background-color: @BetaColor;
+
+	text-align: justify;
+}
+
+.TextScroll{
+	height: 100%;
+}
+
+.TitleDiv{
+	background-color: @TitleColor;
+}
+
+.PostRow p, h2{
+	margin-top: 20px;
+}
+
+.PostRow .Date{
+	display: block;
+	width: auto;
+	//padding: 0 3px 0 3px;
+	text-align: center;
+	background-color: @AlphaColor;
+	color: #EEE;
+
+	border-radius: 5px;
+}
+
+// fonts
+//----------------------
+
+@font-face{
+	font-family: 'redactedregular';
+	font-weight: normal;
+	font-style: normal;
+
+	src: url('../fonts/redacted-font/redacted-regular.eot');
+	src: url('../fonts/redacted-font/redacted-regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/redacted-font/redacted-regular.woff2') format('woff2'),
+	url('../fonts/redacted-font/redacted-regular.woff') format('woff'),
+	url('../fonts/redacted-font/redacted-regular.ttf') format('truetype'),
+	url('../fonts/redacted-font/redacted-regular.svg#redactedregular') format('svg');
+}
+
+@font-face{
+	font-family: 'redacted_scriptbold';
+	font-weight: normal;
+	font-style: normal;
+
+	src: url('../fonts/redacted-font/redacted-script-bold.eot');
+	src: url('../fonts/redacted-font/redacted-script-bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/redacted-font/redacted-script-bold.woff2') format('woff2'),
+	url('../fonts/redacted-font/redacted-script-bold.woff') format('woff'),
+	url('../fonts/redacted-font/redacted-script-bold.ttf') format('truetype'),
+	url('../fonts/redacted-font/redacted-script-bold.svg#redacted_scriptbold') format('svg');
+}
+
+@font-face{
+	font-family: 'redacted_scriptlight';
+	font-weight: normal;
+	font-style: normal;
+
+	src: url('../fonts/redacted-font/redacted-script-light.eot');
+	src: url('../fonts/redacted-font/redacted-script-light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/redacted-font/redacted-script-light.woff2') format('woff2'),
+	url('../fonts/redacted-font/redacted-script-light.woff') format('woff'),
+	url('../fonts/redacted-font/redacted-script-light.ttf') format('truetype'),
+	url('../fonts/redacted-font/redacted-script-light.svg#redacted_scriptlight') format('svg');
+}
+
+@font-face{
+	font-family: 'redacted_scriptregular';
+	font-weight: normal;
+	font-style: normal;
+
+	src: url('../fonts/redacted-font/redacted-script-regular.eot');
+	src: url('../fonts/redacted-font/redacted-script-regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/redacted-font/redacted-script-regular.woff2') format('woff2'),
+	url('../fonts/redacted-font/redacted-script-regular.woff') format('woff'),
+	url('../fonts/redacted-font/redacted-script-regular.ttf') format('truetype'),
+	url('../fonts/redacted-font/redacted-script-regular.svg#redacted_scriptregular') format('svg');
+}
+
+
+//-----------------------------------------------------------
+//-----------------------------------------------------------
+//-----------------------------------------------------------
+//-----------------------------------------------------------
+
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+
+//Scrollbar veranderen
+//------------------------
+
+::-webkit-scrollbar{
+	width: 12px;
+}
+::-webkit-scrollbar-track{
+	background-color: #eaeaea;
+	border-left: 1px solid #ccc;
+}
+::-webkit-scrollbar-thumb{
+	background-color: #ccc;
+}
+::-webkit-scrollbar-thumb:hover{
+	background-color: #aaa;
+}

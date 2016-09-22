@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+}
+
+.underConstruction{
+	background-color: #111;
+	margin-top: 200px;
+	width: 50%; height: 100px;
+	margin-left: auto; margin-right: auto;
+	padding: 10px;
+}
+
+h1{
+	font-family: tahoma, verdana, sans-serif;
+	color: #444;
+	text-align: center;
+}
