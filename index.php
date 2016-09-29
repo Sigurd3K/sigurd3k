@@ -2,10 +2,7 @@
 
 			<div class="row">
 				<div class="col-sm-12 threads">
-					<h2>threads</h2>
-					<p>Welkom op het portaal van project Ownworld. Hier kan je alle informatie vinden die je nodig hebt.</p>
-					<p>De website is nog in aanbouw.</p>
-
+					<p>My name is Sigurd Van Leuven, student INF at Thomas More (in Mechelen, Belgium).</p>
 				</div>
 			</div>
 
