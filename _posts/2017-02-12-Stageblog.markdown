@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welkom op mijn blog"
-date:   2017-02-04 17:56:45 +0100
+title:  "Stageblog"
+date:   2017-02-12 18:00:00 +0100
 categories: stage
 ---
-Doorheen de volgende 12 weken zal hier elke vrijdag een nieuw verslag over mijn stage verschijnen.
+Gedurende de volgende 12 weken zal hier elke vrijdag een nieuw verslag over mijn stage verschijnen.
 
 <!--
 	you can ask them on [Jekyll Talk][jekyll-talk].
