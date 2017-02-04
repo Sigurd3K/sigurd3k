@@ -23,7 +23,7 @@ github_username:  Sigurd3K
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 gems:
   - jekyll-feed
 exclude:
