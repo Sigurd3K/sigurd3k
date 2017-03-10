@@ -32,6 +32,6 @@ Ik denk dat ik voorlopig gewoon wat python ga leren. Toch wel een belangrijke bo
 
 Moeilijk maar doorzetten.
 
-**Excel-bestand met weekoverzicht van de uitgevoerde taken bij ordina**
+**Excel-bestand met weekoverzicht van de uitgevoerde taken bij Ordina**
 
 [De uitgevoerde taken]({{ site.url }}/weekoverzichten/Stage - Week 2.xlsx)

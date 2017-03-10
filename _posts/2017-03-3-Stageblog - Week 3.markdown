@@ -30,6 +30,6 @@ Sneller hulp vragen zodat ik niet te lang vast zit en een stukje pragmatischer t
 
 Bijgeleerd, onwetend en voldoening.
 
-**Excel-bestand met weekoverzicht van de uitgevoerde taken bij ordina**
+**Excel-bestand met weekoverzicht van de uitgevoerde taken bij Ordina**
 
 [De uitgevoerde taken]({{ site.url }}/weekoverzichten/Stage - Week 3.xlsx)

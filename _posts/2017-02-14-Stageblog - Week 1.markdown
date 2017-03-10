@@ -14,14 +14,18 @@ categories: stage
 
 Momenteel ben ik bezig met het bouwen van een neuraal netwerk met Tensorflow. over machine learning moet ik nog heel wat bijleren. Aan de manier van programmeren ben ik nog niet gewend.
 
+Het is niet echt Python dat het moeilijk maakt, maar vooral de Tensorflow library -- waarvan de werking allesbehalve conventioneel is.
+
 **Hoe heb ik deze moeilijkheden opgelost?**
 
 Er zijn collega's die hiervan heel wat kennis hebben. Ik had een aantal fundamentele misvattingen die pas aan het licht kwamen na een gesprek. Aan het einde van de week heb ik nog niet zo veel kunnen maken maar heb wel heel wat bijgeleerd.
+
+Niet dat dit een probleem is want dit is niet echt iets waaraan je begint zonder eerst wat kennis te verwerven.
 
 **Omschrijf in drie woorden het gevoel dat je hebt ervaren tijdens de afgelopen week.**
 
 Heel veel bijgeleerd.
 
-**Excel-bestand met weekoverzicht van de uitgevoerde taken bij ordina**
+**Excel-bestand met weekoverzicht van de uitgevoerde taken bij Ordina**
 
 [De uitgevoerde taken]({{ site.url }}/weekoverzichten/Stage - Week 1.xlsx)
