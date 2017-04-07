@@ -18,7 +18,7 @@ Ik moet leren om sneller afstand te nemen van een manier als deze niet lukt of t
 
 **Hoe heb ik deze moeilijkheden opgelost?**
 
-De moeilijkheden zijn helaas nog niet opgelost, wle verschillende vragen over Tensorflow die ik had zijn opgelost. Dit omdat ik heel wat moest bijleren over Tensorflow om dit probleem te kunnen verhelpen.
+De moeilijkheden zijn helaas nog niet opgelost, wel verschillende vragen over Tensorflow die ik had zijn opgelost. Dit omdat ik heel wat moest bijleren over Tensorflow om dit probleem te kunnen verhelpen.
 
 Ik heb het een keer op Stackoverflow gevraagd, maar daar heb ik geen antwoord gekregen.
 
