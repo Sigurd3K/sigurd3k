@@ -26,7 +26,7 @@ Problemen met Keras waren opgelost door een avondje door te zoeken.
 
 **Omschrijf in drie woorden het gevoel dat je hebt ervaren tijdens de afgelopen week.**
 
-Een beetje **Teleurgesteld**, nu ik zie dat de stage stilaan op zijn einde loopt, ik ga het hier wel wat missen.  Ook had ik na  die 9 weken toch wat meer vooruitgang willen boeken, maar dit valt wel te verwachten met deze materie.  **Slimmer** Ik heb echt een ton geleerd. **Efficiënt**: ik heb wel wat werk gehad om Keras te koppelen aan mijn oude code maar ik kan nu veel sneller en flexibeler nieuwe datasets gebruiken. 
+Een beetje **Teleurgesteld**, nu ik zie dat de stage stilaan op zijn einde loopt, ik ga het hier wel wat missen.  Ook had ik na  die 9 weken toch wat meer vooruitgang willen boeken, maar dit valt wel te verwachten met deze materie. **Slimmer** Ik heb echt een ton geleerd. **Efficiënt**: ik heb wel wat werk gehad om Keras te koppelen aan mijn oude code maar ik kan nu veel sneller en flexibeler nieuwe datasets gebruiken. 
 
 **Excel-bestand met weekoverzicht van de uitgevoerde taken bij Ordina**
 
